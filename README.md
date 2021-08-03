@@ -2,7 +2,7 @@
 
 
 - 💻 I’m currently working as support analyst
-- 👨‍💻 I’m currently learning web development with Javascript, CSS, HTML
+- 👨‍💻 I’m currently learning about web development 
 - ✔  I'm AWS Certified Cloud Practitioner  
 - 👨‍🎓 Bachelor in Computer Science
 
