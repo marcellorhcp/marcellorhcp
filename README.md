@@ -1,10 +1,21 @@
-### Hi there 👋
+### Hi there, I'm [Marcelo!](https://marcellorhcp.github.io)  👋
 
 
 - 💻 I’m currently working as support analyst
 - 👨‍💻 I’m currently learning web development with Javascript, CSS, HTML
 - ✔  I'm AWS Certified Cloud Practitioner  
 - 👨‍🎓 Bachelor in Computer Science
+
+<br />
+
+**Languages and Tools that I'm learning:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+<br />
 
 <div>
   <a href="https://github.com/marcellorhcp">
