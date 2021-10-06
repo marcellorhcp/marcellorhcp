@@ -4,7 +4,7 @@
 - 💻 I’m currently working as IT analyst
 - 👨‍💻 I’m currently learning about web development 
 - ✔  I'm AWS Certified Cloud Practitioner  
-- 👨‍🎓 Bachelor in Computer Science
+- 👨‍🎓 Bachelor of Computer Science
 
 <br />
 
