@@ -3,7 +3,8 @@
 
 - 💻 I’m currently working as IT analyst
 - 👨‍💻 I’m currently learning about web development 
-- ✔  I'm AWS Certified Cloud Practitioner  
+- ✔  AWS Certified Cloud Practitioner  
+- ✔  Scrum Foundation Professional
 - 👨‍🎓 Bachelor of Computer Science
 
 <br />
