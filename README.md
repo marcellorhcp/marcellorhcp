@@ -1,7 +1,7 @@
 ### Hi there, I'm [Marcelo!](https://marcellorhcp.github.io)  👋
 
 
-- 💻 I’m currently working as support analyst
+- 💻 I’m currently working as IT analyst
 - 👨‍💻 I’m currently learning about web development 
 - ✔  I'm AWS Certified Cloud Practitioner  
 - 👨‍🎓 Bachelor in Computer Science
