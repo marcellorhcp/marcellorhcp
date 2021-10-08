@@ -2,10 +2,11 @@
 
 
 - 💻 I’m currently working as IT analyst
-- 👨‍💻 I’m currently learning about web development 
+- 👨‍🎓 Bachelor of Computer Science 
 - ✔  AWS Certified Cloud Practitioner  
 - ✔  Scrum Foundation Professional
-- 👨‍🎓 Bachelor of Computer Science
+- 👨‍💻 I’m currently learning about web development
+
 
 <br />
 
