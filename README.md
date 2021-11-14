@@ -5,7 +5,9 @@
 
 - 👨‍🎓 Bachelor of Computer Science 
 
-- ✔  AWS Certified Cloud Practitioner  
+- ☁️  AWS Certified Cloud Practitioner  
+
+- ☁️  AWS Developer Associate (loading...)
 
 - ✔  Scrum Foundation Professional
 
