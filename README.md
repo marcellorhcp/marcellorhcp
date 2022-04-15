@@ -9,7 +9,7 @@
 
 - ✔  Scrum Foundation Professional
 
-- 👨‍💻 Currently studying about software development using Go programing language
+- 👨‍💻 Currently studying about software development using Go programming language
 
 
 <br />
