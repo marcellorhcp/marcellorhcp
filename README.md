@@ -1,7 +1,7 @@
 ### Hi there, I'm [Marcelo!](https://marcellorhcp.github.io)  👋
 
 
-- 💻 I’m currently working as IT analyst
+- 💻 IT analyst
 
 - 👨‍🎓 Bachelor of Computer Science 
 
@@ -9,7 +9,7 @@
 
 - ✔  Scrum Foundation Professional
 
-- 👨‍💻 Currently studying about software development using Go programming language
+- 👨‍💻 Software development student (Go programming language)
 
 
 <br />
