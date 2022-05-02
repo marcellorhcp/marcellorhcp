@@ -20,8 +20,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcellorhcp&show_icons=true&theme=vision-friendly-dark" alt="marcellorhcp's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellorhcp&layout=compact&theme=vision-friendly-dark" alt="marcellorhcp's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcellorhcp&show_icons=true&theme=vision-friendly-dark&&include_all_commits=true&count_private=true" alt="marcellorhcp's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellorhcp&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="marcellorhcp's most languages"/>
 </p>  
 
  <a href="https://discord.com/channels/marcellorhcp#5111" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
