@@ -1,12 +1,14 @@
 ### Hi there, I'm [Marcelo!](https://marcellorhcp.github.io) 👋
 
-- 💻 IT Analyst with 10+ years of experience in IT infrastructure, support, and operations management.
-- 👨‍🎓 Bachelor's degree in Computer Science.
-- ☁️ AWS Certified Cloud Practitioner.
-- ✔ Scrum Foundation Professional.
-- 👨‍💻 Currently learning and practicing software development using the **Go** programming language.
+💻 IT Operations Engineer with over 10 years of experience in IT infrastructure, systems administration, and operations management.
 
-As an IT professional transitioning into software development, I am passionate about combining my background in IT operations with my newfound interest in coding and cloud technologies. I am actively expanding my expertise by building projects with Go and focusing on applying best practices to real-world challenges.
+🎓 Bachelor's degree in Computer Science.
+
+☁️ AWS Certified Cloud Practitioner and passionate about cloud-native solutions.
+
+✔ Certified in Scrum Foundation, with a focus on Agile project delivery.
+
+👨‍💻 Exploring Go programming to enhance cloud-native development and system automation capabilities.
 
 ---
 
@@ -17,13 +19,31 @@ As an IT professional transitioning into software development, I am passionate a
 
 ---
 
-### 📈 My Journey
+🛠 About Me
 
-With a decade of experience in IT infrastructure, I have led high-impact projects in global organizations. At **World Kinect**, I currently manage IT infrastructure across multiple locations in Brazil, where I focus on scalable solutions like SD-WAN and Microsoft Azure. I'm passionate about optimizing IT environments, improving system performance, and ensuring user satisfaction.
+With a solid background in IT operations, I have a proven track record of designing and managing scalable IT solutions in dynamic and high-impact environments. Currently, at World Kinect, I oversee multi-site infrastructure, leading initiatives like SD-WAN deployments and Azure integrations to optimize performance and cost-efficiency.
 
-Before that, at **Harsco Environmental**, I honed my skills in systems administration, IT security, and support, working with tools like **Active Directory**, **Exchange**, and **ServiceNow**.
+Previously, at Harsco Environmental, I specialized in systems administration, IT security, and compliance, leveraging tools like Active Directory, Exchange, and ServiceNow to enhance user productivity and system reliability.
 
-Now, I'm leveraging my cloud and operations experience to dive deep into software development, focusing on **Go**, cloud integration, and scalable system solutions.
+My journey now includes bridging the gap between IT infrastructure and software development. I focus on leveraging programming—primarily with Go—to create efficient, scalable, and cloud-integrated systems that solve real-world challenges.
+
+---
+
+🔧 Expertise & Skills
+
+Infrastructure Management: SD-WAN, Microsoft Azure, ITIL practices.
+
+System Administration: Active Directory, Exchange, compliance, and security.
+
+Software Development: Go, cloud-native applications, and scalable architectures.
+
+Agile Practices: Scrum, project planning, and cross-functional collaboration.
+
+---
+
+📈 My Journey
+
+I am passionate about building solutions that drive business outcomes. By combining deep operational expertise with cutting-edge development practices, I aim to contribute to innovative projects that align IT and business strategies.
 
 ---
 
